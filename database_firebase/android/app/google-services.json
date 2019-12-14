@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "646469259129",
+    "firebase_url": "https://database-firebase-1edb4.firebaseio.com",
+    "project_id": "database-firebase-1edb4",
+    "storage_bucket": "database-firebase-1edb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646469259129:android:62baaf4afcd1e2191ee9a8",
+        "android_client_info": {
+          "package_name": "josn.database_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646469259129-jeim4a9l8p3ith5sp4d42k0e6uj6sbb9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEDpALgj1gu3BCgp9MeHPE4hISA7tSko4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646469259129-jeim4a9l8p3ith5sp4d42k0e6uj6sbb9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
